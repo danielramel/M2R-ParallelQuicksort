@@ -1,7 +1,4 @@
 M2R-ParallelQuicksort
 =====================
 
-This small project aims at teaching 2nd year master students how to
-improve their experimental methodology.
-
-The [journal](journal.org) contains all information and experimental reports.
+Please find the experimenting and analysis of our own measurement in the `report.ipynb` notebook, and the linear fitting of the data of alegrand in the `linear_fitting.ipynb` notebook.
